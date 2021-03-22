@@ -1,1 +1,3 @@
 # State-covid-project
+
+Collaborative project during my Data Science in Practice course at UCSD with 4 other team members. Our research explored whether a particular US region’s overall political affiliation affects their total number of Covid-19 cases, exploring additional factors such as education ranking and Covid-19 safety guidelines. Using linear regression and multiple linear regression, we explored the relationship between these variables and found that there is a correlation between the political leaning and the safety policies of a US region and its overall amount of Covid cases.
